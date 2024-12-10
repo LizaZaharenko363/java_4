@@ -1,0 +1,18 @@
+input, select{
+    margin-bottom: 10px;
+}
+
+html, body{
+    background-color: bisque;
+}
+h1, p, a{
+    color: #391205;
+}
+
+a{
+    text-decoration: none;
+    background-color: #652f1d;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
